@@ -1,0 +1,8 @@
+//Create React Application
+npx create-react-app reactivities-client-app --use-npm --template typescript
+
+//Axios
+npm install axios
+
+//Semantic UI React
+npm install semantic-ui-react semantic-ui-css
